@@ -15,8 +15,3 @@ if key red > 12
 if key green > 13
 return True
 
-Let:
-g = number of games.
-r = average number of rounds per game.
-c = average number of colors per round.
-O(g * r * c) 
